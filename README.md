@@ -1,2 +1,2 @@
-# MERN-STACK
-#Flipkart clone
+# Flipkart Clone
+
