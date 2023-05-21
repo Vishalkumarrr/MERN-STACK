@@ -1,2 +1,2 @@
-# Flipkart Clone
+# E-commerce website/ Flipkart Clone
 
